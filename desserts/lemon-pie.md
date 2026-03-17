@@ -1,5 +1,5 @@
-## Ingredients
-# Lemon Filling:
+# Ingredients
+## Lemon Filling:
 
    - 1 cup white sugar
 
@@ -19,13 +19,13 @@
 
    - 1 (9-inch) prepared pie crust, baked
 
-# Meringue:
+## Meringue:
 
    - 4 egg whites
 
    - ½ cup white sugar
 
-## Directions
+# Directions
 1. Gather all ingredients and preheat the oven to 325 degrees F (165 degrees C).
 2. To make the lemon filling: Whisk 1 cup sugar, flour, cornstarch, and salt together in a medium saucepan; stir in water, lemon juice, and lemon zest. Cook over medium-high heat, stirring frequently, until mixture comes to a boil. Stir in butter.
 3. Place egg yolks in a small bowl and gradually whisk in 1/2 cup of hot sugar mixture.
